@@ -181,6 +181,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
+    - [ ] French (Canadian)
+    - [ ] Latvian
 
 See the [open issues](https://github.com/bbauska/README-Template/issues) for a full list of proposed features (and known issues).
 
